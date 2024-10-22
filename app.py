@@ -81,7 +81,7 @@ camera = st.sidebar.multiselect('Select Camera', options=data['Camera'].unique()
 # Refresh Button
 if st.button("Refresh Dashboard"):
     try:
-        st.experimental_rerun()
+        st.experimental_set_query_params()
     except Exception as e:
         st.error(f"An error occurred: {e}")
 
