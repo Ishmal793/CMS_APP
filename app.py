@@ -80,7 +80,10 @@ camera = st.sidebar.multiselect('Select Camera', options=data['Camera'].unique()
 
 # Refresh Button
 if st.button("Refresh Dashboard"):
-    st.experimental_rerun()
+    try:
+        st.experimental_rerun()
+    except Exception as e:
+        st.error(f"An error occurred: {e}")
 
 # Tooltip Message
 tooltip_message = (
