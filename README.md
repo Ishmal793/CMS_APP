@@ -1,7 +1,7 @@
 # CMS_APP
-About
+*About*
 streamlit_dashboard (content management system )
-
+*Dashboard_link*
 cmsapp-br7gb2fvgkuhaxxtgpzpql.streamlit.app/
-Topics
+*Topics*
 dashboard data-visualization streamlit-dashboard
