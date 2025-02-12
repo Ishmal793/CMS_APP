@@ -1,7 +1,10 @@
 # CMS_APP
-*About*
-streamlit_dashboard (content management system )
-*Dashboard_link*
-cmsapp-br7gb2fvgkuhaxxtgpzpql.streamlit.app/
-*Topics*
-dashboard data-visualization streamlit-dashboard
+Streamlit Dashboard - Content Management System (CMS)
+🚀 A powerful content management system built using Streamlit, designed for seamless data visualization and dashboard management.
+
+🌐 Live Dashboard
+🔗 View Dashboard
+
+🏷️ Topics Covered
+📌 dashboard | data-visualization | streamlit-dashboard
+
